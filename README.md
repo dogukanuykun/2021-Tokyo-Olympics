@@ -26,7 +26,7 @@
 </details>
 
 
-<img src="https://github.com/dogukanuykun/2021-Tokyo-Olympics/blob/main/images/coaches.png" />
+<img src="https://github.com/dogukanuykun/2021-Tokyo-Olympics/blob/main/images/coaches.png" width="300" height="200"/>
 
 
 
